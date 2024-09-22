@@ -1,0 +1,9 @@
+.pio
+include/
+lib/
+test/
+
+#ide specific
+*.idea/
+*iml/
+cmake-build-*/
